@@ -68,5 +68,5 @@ div.green:hover {
  */
 div.invisible, div.invisible:hover {
   background-color: white;
-  border: none;
+  border-color: white;
 }
